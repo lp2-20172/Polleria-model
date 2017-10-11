@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0:1", "", "Vista general del proyecto", "EARoot/EA1.htm", "175.png", "1", "0", "", "Logical diagram0","{41C8D4F7-BB99-4a42-B414-5C6D4C55A827}");
+tocTab[tocTab.length] = new Array("1", "1", "polleria", "EARoot/EA3.htm", "4.png", "", "", "{96380675-FA7E-416a-A6A4-D1750E6BF10B}", "Package");
+tocTab[tocTab.length] = new Array("2", "1", "Procesos de negocio", "EARoot/EA13.htm", "4.png", "", "", "{7287AE7C-66B0-40f2-A7E6-928578C126C0}", "Package");
+tocTab[tocTab.length] = new Array("3", "1", "Modelo de casos de uso", "EARoot/EA14.htm", "4.png", "", "", "{87A62559-9431-43fc-A556-B6D0BCE8CDF3}", "Package");
+tocTab[tocTab.length] = new Array("4", "1", "Modelo de dominio", "EARoot/EA15.htm", "4.png", "", "", "{4FA7F0C0-4CD4-4a73-9BA1-AF39725CC0AC}", "Package");
+tocTab[tocTab.length] = new Array("5", "1", "Modelo de clases", "EARoot/EA16.htm", "4.png", "", "", "{DA46CC93-F9E9-44ff-88F7-8B1086949414}", "Package");
+tocTab[tocTab.length] = new Array("6", "1", "Modelo de datos", "EARoot/EA17.htm", "4.png", "", "", "{02FBC0E0-3361-47a2-A719-221ED5752636}", "Package");
+tocTab[tocTab.length] = new Array("7", "1", "Requisitos", "EARoot/EA18.htm", "4.png", "", "", "{EF58FE30-9C5A-48fb-8526-4FF7F34B4B09}", "Package");
+tocTab[tocTab.length] = new Array("8", "1", "Interfaz de usuario", "EARoot/EA19.htm", "4.png", "", "", "{EB0CDF61-A1D3-4744-AE7B-930E113FB9FB}", "Package");
